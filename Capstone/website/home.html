@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <script src="./js/script.js" defer></script>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+    <link rel="stylesheet" type="text/css" href="navbar.css" />
+    <link rel="stylesheet" type="text/css" href="home.css" />
+    <link rel="stylesheet" type="text/css" href="./Styles/footer.css" />
+    <script src="script.js" defer></script>
+
+    <title>Home</title>
+  </head>
+  <body>
+    <!-- NAVIGATOR-BAR STARTS -->
+    <nav class="navbar">
+      <div class="max-width">
+        <div class="logo">
+          <a href="#home"
+            ><img src="logo1.png" alt="logo" /> <span>Bootcamp3</span></a
+          >
+        </div>
+        <ul class="menu">
+          <li><a href="#home" class="menu-bttn">Home</a></li>
+          <li>
+            <a href="#about" class="menu-bttn">About</a>
+          </li>
+          <li class="dropdown">
+            <a href="#predictions" class="menu-bttn">Predictions</a>
+            <ul class="dropdown-content">
+              <li><a href="#cropYieldForm">Crop Yield</a></li>
+              <li><a href="#undernourishmentForm">Undernourishment</a></li>
+              <li><a href="#cerealChangeForm">Cereal Yield </a></li>
+              <li><a href="#lsmtForm"> LSMT</a></li>
+            </ul>
+          </li>
+          
+          <li>
+            <a href="#members" class="menu-bttn">Members</a>
+          </li>
+          <li>
+            <a href="#contact" class="menu-bttn">Contact</a>
+          </li>
+        </ul>
+      </div>
+      <div class="menu-bttn">
+        <i class="fas fa-bars"></i>
+      </div>
+    </nav>
+
+    <!-- NAVIGATOR-BAR ENDS -->
+
+    <!-- HEADER STARTS -->
+
+    <header class="home" id="home">
+      <div id="carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button
+            type="button"
+            data-bs-target="#carousel"
+            data-bs-slide-to="0"
+            class="active"
+            aria-current="true"
+            aria-label="Slide 1"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carousel"
+            data-bs-slide-to="1"
+            aria-label="Slide 2"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carousel"
+            data-bs-slide-to="2"
+            aria-label="Slide 3"
+          ></button>
+          <button
+            type="button"
+            data-bs-target="#carousel"
+            data-bs-slide-to="3"
+            aria-label="Slide 4"
+          ></button>
+        </div>
+
+        <div class="carousel-inner">
+          <div
+            class="carousel-item active"
+            style="background-image: url('./images/image5_resized1.jpg')"
+          >
+            <div class="container">
+              <div class="container">
+                <h2>SDG Goals</h2>
+                <p>The Sustainable Development Goals (SDGs) </p>
+                <p>are a universal call to action to end poverty, protect the planet, and ensure prosperity for all by 2030.</p>
+                <a href="#about" class="btn btn-success btn-lg">More</a>
+              </div>
+          </div>
+          
+          </div>
+          <div
+            class="carousel-item"
+            style="background-image: url('./images/image2.jpg')"
+          >
+          <div class="container">
+            <h2>Crop Yield</h2>
+            <p>Understanding the impact of climate change on crop yield is crucial for ensuring food security.</p>
+            <p>As weather patterns shift, farmers face new challenges that threaten agricultural productivity and livelihoods.</p>
+            <a href="#about" class="btn btn-success btn-lg">More</a>
+          </div>
+        
+          </div>
+          <div
+            class="carousel-item"
+            style="background-image: url('./images/image3.jpg')"
+          >
+            <div class="container">
+              <h2><h2>SDG 13: climate Action</h2>
+              <p>
+                climate change poses a significant threat to ecosystems, agriculture, and livelihoods worldwide.
+                Addressing this urgent issue is crucial for achieving sustainability and protecting our planet
+                for future generations.
+              </p>
+              <a href="#home" class="btn btn-success btn-lg" href="#"
+                >More</a
+              >
+            </div>
+          </div>
+          <div
+            class="carousel-item"
+            style="background-image: url('./images/image4.jpg')"
+          >
+            <div class="container">
+              <h2>Agriculture: A Path to Ending Poverty</h2>
+              <p>
+                Agriculture is not just a means of livelihood; it is a vital pathway to eradicating poverty.
+                By enhancing agricultural practices and investing in sustainable farming, we can empower 
+                communities, improve food security, and create economic opportunities.
+              </p>
+              <a href="#agriculture" class="btn btn-success btn-lg">More</a>
+            </div>
+          </div>
+        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carousel"
+          role="button"
+          data-bs-slide="prev"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carousel"
+          role="button"
+          data-bs-slide="next"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </header>
+    <!-- HEADER ENDS -->
+
+
+    <!------ABOUT STARTS------>
+    <section class="section" id="about">
+      <div class="section__title">
+        <h2 class="section__description">SDG 2 & SDG 13</h2>
+        <h3 class="section__header">
+          Impacts of climate change on food security, Agriculture. 
+        </h3>
+      </div>
+
+      <div class="about-section">
+        <div class="container">
+            <div class="about-content">
+              <p>
+                As the world grapples with the pressing challenges of climate change, the implications
+                 for food security are profound and far-reaching. Our project leverages machine 
+                 learning to analyze and predict critical factors influencing food security, specifically focusing 
+                 on crop yield, prevalence of undernourishment, and climate yield. By understanding these dynamics,
+                  we aim to contribute valuable insights to the global discourse on achieving Zero Hunger (SDG 2)
+                   while addressing the urgent need for climate Action (SDG 13). Our findings not only highlight 
+                   the vulnerabilities of agricultural systems but also underscore the necessity of sustainable 
+                   practices to ensure food security for future generations. Join us on this journey to explore 
+                   the intersection of climate change and food security, as we strive to foster resilience in our
+                   food systems.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="features">
+      <img
+          src="./images/cropyield1.png"
+          data-src="img/digital.jpg"
+          alt="Computer"
+          class="features__img lazy-img"
+      />
+      <div class="features__feature">
+          <h5 class="features__header">Crop Yield</h5>
+          <p>
+            climate change significantly impacts agriculture, threatening global food security by 
+            affecting crop yields through extreme weather, altered rainfall, and increased pests. 
+            Crop Yield uses data-driven models, including machine learning, to forecast harvest 
+            outcomes based on environmental conditions, weather data, soil quality, and agricultural 
+            practices.
+          </p>
+          <p>
+            Accurate predictions help farmers and policymakers make informed decisions on planting, resource management,
+            and risk mitigation, enhancing resilience, optimizing agricultural productivity, and ensuring 
+            food security in a changing climate.
+          </p>
+      </div>
+
+      <div class="features__feature">
+          <h5 class="features__header">Undernourishment Prediction </h5>
+          <p>
+            Undernourishment remains a critical global challenge, exacerbated by climate change's impact on 
+            food production and distribution. As changing weather patterns, extreme events, and resource 
+            constraints threaten agricultural outputs, vulnerable populations face increased risks of food insecurity and inadequate nutrition.
+          </p>
+          <p>
+            Undernourishment Prediction leverages data analytics, machine learning, and socio-economic 
+            indicators to forecast areas and populations at risk of hunger.
+          </p>
+      </div>
+      <img
+          src="./images/image2.jpg"
+          data-src="./images/image3.jpg"
+          alt="Plant"
+          class="features__img lazy-img"
+      />
+
+      <img
+          src="./images/emission.jpg"
+          data-src="./images/image2.jpg"
+          alt="Credit card"
+          class="features__img lazy-img"
+      />
+      <div class="features__feature">
+          <div class="features__icon">
+          </div>
+          <h5 class="features__header">Emissions</h5>
+          <p>
+            Agriculture is both a victim and a contributor to climate change, responsible for 
+            significant greenhouse gas (GHG) emissions, including carbon dioxide (CO₂), methane (CH₄), 
+            and nitrous oxide (N₂O). Emissions from agricultural activities, such as livestock digestion, 
+            rice paddies, deforestation, and the use of synthetic fertilizers, contribute to global warming, exacerbating climate change.
+          </p>
+          <p>
+            Reducing agricultural emissions is essential for mitigating climate change. Key strategies include sustainable farming, better livestock 
+            management, optimized fertilizer use, and enhanced carbon sequestration through agroforestry.
+          </p>
+      </div>
+      </div>
+    </section>
+    <!----END ABOUT -->
+
+   <!-- Predictions Section STARTS -->
+   
+<h1 style="text-align: center; font-weight: bold; color: rgb(235, 103, 52);">Predictions</h1>
+<section class="prediction_class" id="predictions">
+
+  <div class="container">
+    <!-- Button Group -->
+    <div class="btn-group" style="display: flex; gap: 10px;" role="group" aria-label="Basic example">
+        <button type="button" class="btn btn-secondary"
+        style="font-size: 20px; padding: 10px;"
+        data-tab="undernourishment">Predict Undernourishment</button>
+        <button type="button" class="btn btn-secondary"
+        style="font-size: 20px; padding: 10px;"
+        data-tab="lsmt">Predict LSMT</button>
+        <button type="button" class="btn btn-secondary"
+        style="font-size: 20px; padding: 10px;"
+        data-tab="crop">Predict Crop Yield</button>
+        <button type="button" class="btn btn-secondary"
+        style="font-size: 20px; padding: 10px;"
+        data-tab="cereal">Predict Cereal Yield</button>
+    </div>
+    <!-- Prediction Sections -->
+<div class="prediction-content" id="undernourishment-section">
+  <h3>Undernourishment Prediction</h3>
+  <form id="undernourishmentForm">
+    <label for="EnergyAdequacy">Energy supply adequacy (%) :</label>
+    <input type="number" id="EnergyAdequacy"
+    name="EnergyAdequacy" placeholder="e.g., 50" required>
+    <label for="ProteinSupply">Protein supply(g/cap/day) :</label>
+    <input type="number" id="ProteinSupply" name="ProteinSupply" placeholder="e.g., 500" required>
+    <label for="AnimalProtein">Animal Protein Supply(g/cap/day) :</label>
+    <input type="number" id="AnimalProtein" name="AnimalProtein" placeholder="e.g., 25" required>
+    <label for="cerealImportdep">Cereal import dependency(%)</label>
+    <input type="number" id="cerealImportdep" name="cerealImportdep" placeholder="e.g., 100" required>
+    <label for="EnergySupply">
+      Energy Supply(kcal/cap/day) :
+    </label>
+    <input type="number" id="EnergySupply" name="EnergySupply" placeholder="e.g., 100" required>
+    <label for="EnergyFromCereal">Energy From Cereals (%) :</label>
+    <input type="number" id="EnergyFromCereal" name="EnergyFromCereal" placeholder="e.g., 100" required>
+<div class="btn-group">
+  <button type="button" class="btn btn-primary btn-lg" style="margin-top: 20px; background-color: rgb(235, 103, 52); color: black; " >Predict Undernourishment</button>
+  
+</div>
+  </form>
+</div>
+<div class="prediction-content" id="lsmt-section" style="display: none;">
+  <h3>LSMT Prediction</h3>
+  <form id="lsmtForm">
+    <label for="Year">Year  :</label>
+    <input type="number" id="Year"
+    name="Year" placeholder="e.g., 2025" required>
+    <label for="CountryName">Country :</label>
+    <input type="text" id="CountryName" name="CountryName" placeholder="e.g., Turkey" required>
+<div class="btn-group">
+  <button type="button" class="btn btn-primary btn-lg" style="margin-top: 20px; background-color: rgb(235, 103, 52); color: black; " >Predict lsmt</button>
+  
+</div>
+  </form>
+</div>
+    <div class="prediction-content" id="crop-section" style="display:none;">
+        <h3>Crop Yield Prediction</h3>
+        <form id="cropYieldForm">
+          <label for="year">Year</label>
+          <input type="number" id="year" name="year" placeholder="e.g., 2025" required>
+         <label for="rainfall">Average Rainfall (mm/year)</label>
+          <input type="number" id="rainfall" name="rainfall" placeholder="e.g., 500" required>
+          <label for="Pesticides">Pesticides (tonnes)"</label>
+          <input type="number" id="Pesticides" name="Pesticides" placeholder="e.g., 100" required>
+          <label for="temperature">Average Temperature (°C):</label>
+          <input type="number" id="temperature" name="temperature" placeholder="e.g., 25" required>
+          <label for="country">Country</label>
+          <input type="text" id="country" name="country" placeholder="e.g., Turkey" required>
+          <label for="item">Item</label>
+          <input type="text" id="item" name="item" placeholder="e.g., TR" required>
+  
+        <div class="btn-group">
+        <button type="button" class="btn btn-primary btn-lg" style="margin-top: 20px;  background-color: rgb(235, 103, 52); color: black;" >Predict cropYield</button>
+        
+    </div>
+        </form>
+    </div>
+    <div class="prediction-content" id="cereal-section" style="display:none;">
+        <h3>Cereal Yield  Prediction</h3>
+        <form id="cerealChangeForm">
+          <label for="CountryName">Country</label>
+          <input type="text" id="CountryName" name="CountryName" placeholder="e.g., Turkey" required>
+  
+          <label for="cerealYield">Cereal yield (kg/hectare) :</label>
+          <input type="number" id="cerealYield" name="cerealYield" placeholder="e.g., 5" required>
+  
+          <label for="Co2Emission">CO2 emissions (kt):</label>
+          <input type="number" id="Co2Emission" name="Co2Emission" placeholder="e.g., 1.2" required>
+          <label for="MethaneEmission">Methane emissions (kt CO2 eq.):</label>
+          <input type="number" id="MethaneEmission" name="MethaneEmission" placeholder="e.g., 1.2" required>
+          <label for="otherGHGEmsion">Other GHG emissions (thousand tons):</label>
+          <input type="number" id="otherGHGEmsion" name="otherGHGEmsion" placeholder="e.g., 1.2" required>
+          <label for="FreshwaterWithdrawals">Freshwater withdrawals (% internal)</label>
+          <input type="number" id="FreshwaterWithdrawals" name="FreshwaterWithdrawals" placeholder="e.g., 1.2" required>
+          <label for="AvgPrecipitation">Avg precipitation (mm/year)'</label>
+          <input type="number" id="AvgPrecipitation" name="AvgPrecipitation" placeholder="e.g., 1.2" required>
+  
+          <div class="btn-group">
+            <button type="button" class="btn btn-primary btn-lg text-center" style="margin-top: 20px; background-color: rgb(235, 103, 52); color: black;">Predict Cereal Yield</button>
+          </div>
+        </form>
+    </div>
+</div>
+  
+</section>
+
+<!-- Predictions Section ENDS -->
+
+
+   
+    <!-- Members SECTION START -->
+
+    <section class="team-section" id="members">
+      <h1>Meet Our Team</h1>
+      <div class="team-slider-container">
+        <button class="prev" onclick="moveSlides(-1)">&#10094;</button>
+        <div class="team-slider" id="teamSlider">
+          <div class="team-slide">
+            <img src="./images/nanith.png" alt="Team Member 1" />
+            <h3>Nanith</h3>
+            <h4>Machine Learning Engineer</h4>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit,
+              recusandae!
+            </p>
+            <div class="icons">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-github"></i></a>
+            </div>
+          </div>
+          <div class="team-slide">
+            <img src="./images/lansar.jpg" alt="Team Member 1" />
+            <h3>Bacoro Lansar</h3>
+            <h4>Web Developer</h4>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit,
+              recusandae!
+            </p>
+            <div class="icons">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-github"></i></a>
+            </div>
+          </div>
+          <div class="team-slide">
+            <img src="./images/nanith.png" alt="Team Member 1" />
+            <h3>Nanith</h3>
+            <h4>Machine Learning Engineer</h4>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit,
+              recusandae!
+            </p>
+            <div class="icons">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-github"></i></a>
+            </div>
+          </div>
+          <div class="team-slide">
+            <img src="./images/nanith.png" alt="Team Member 1" />
+            <h3>Nanith</h3>
+            <h4>Machine Learning Engineer</h4>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit,
+              recusandae!
+            </p>
+            <div class="icons">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-github"></i></a>
+            </div>
+          </div>
+          <div class="team-slide">
+            <img src="./images/nanith.png" alt="Team Member 1" />
+            <h3>Nanith</h3>
+            <h4>Machine Learning Engineer</h4>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit,
+              recusandae!
+            </p>
+            <div class="icons">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-github"></i></a>
+            </div>
+          </div>
+          <div class="team-slide">
+            <img src="./images/nanith.png" alt="Team Member 1" />
+            <h3>Nanith</h3>
+            <h4>Machine Learning Engineer</h4>
+            <p>
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit,
+              recusandae!
+            </p>
+            <div class="icons">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-github"></i></a>
+            </div>
+          </div>
+        </div>
+        <button class="next" onclick="moveSlides(1)">&#10095;</button>
+      </div>
+    </section>
+
+    <!-- MEMBERS SECTION ENDS -->
+
+    <!----------------------------CONTACT------------------------->
+    <section class="contactcontain" id="contact">
+      <div class="contactus">
+          <div class="titlecontact">
+       <h2>GET IN TOUCH WITH US</h2>
+          </div>
+          <div class="boxcontact">
+              <!-- Form -->
+      <div class="contact form">
+          <h3>We would love to hear from you! Please fill out the form below to get in touch with us</h3>
+          <form  action="https://api.web3forms.com/submit" method="POST">
+              <div class="formBox">
+                  <div class="rows50">
+                      <div class="inputBox">
+                          <span>
+                             FIRST NAME
+                          </span>
+                          <input type="text"placeholder="your first name">
+                      </div>
+                      <div class="inputBox">
+                          <span>
+                           LAST NAME
+                          </span>
+                          <input type="text"placeholder="your last name">
+                      </div>
+                  </div>
+                  <div class="rows50">
+                      <div class="inputBox">
+                          <span>
+                              Adress
+                          </span>
+                          <input type="text"placeholder="example@gmail.com">
+                      </div>
+                      <div class="inputBox">
+                          <span>
+                          Telefon
+                          </span>
+                          <input type="text"placeholder="+90121323230">
+                      </div>
+                  </div>
+                  <div class="rows100">
+                      <div class="inputBox">
+                          <span>
+                            Message
+                          </span>
+                          <textarea placeholder="Write something"></textarea>
+                      </div>
+                  </div>
+                  <div class="rows100">
+                      <div class="inputBox">
+                          
+                         <input type="submit" value="SUBMIT">
+                      </div>
+                  </div>
+              </div>
+          </form>
+      </div>
+      
+      
+      <!-- info box -->
+      <div class="contact info">
+          <h3>Contact Info</h3>
+          <div class="infoBox">
+              <div>
+                  <span><i class="ri-map-pin-2-fill"></i></span>
+               <p>Sakarya University<br>
+                  Sakarya/Turkiye</p>
+              </div>
+              <div>
+                  <span><i class="ri-mail-fill"></i></span>
+              <a href="mailto:lansarbacoro@gmail.com">example@gmail.com</a>
+              </div>
+              
+              <div>
+                  <span><i class="ri-phone-fill"></i></span>
+              <a href="tel:+90000320990">+90000320990</a>
+              </div>
+              <!-- Social Media -->
+              <ul class="scia">
+                  <li><a href="#"><i class="ri-facebook-box-fill"></i></a></li>
+                  <li><a href="#"><i class="ri-instagram-fill"></i></a></li>
+                  <li><a href="#"><i class="ri-linkedin-fill"></i></a></li>
+              </ul>
+          </div>
+      
+      </div>
+      <!-- map box -->
+      <div class="contact map">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.894500000141!2d30.32547399999999!3d40.7423469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ccaded70ee240b%3A0xd81085b5551312fd!2sFaculty%20of%20Computer%20and%20Information%20Sciences!5e0!3m2!1sfr!2str!4v1703179899418!5m2!1sfr!2str"
+           
+           style="border:0;" allowfullscreen="" loading="lazy" 
+           referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+          </div>
+      </div>
+    </section>
+
+    <!-- FOOTER SECTION STARTS -->
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="footer-about">
+              <h6>Thanks</h6>
+              <p> We sincerely thank the Frontier Tech Leaders community for organizing the fantastic 
+                Machine Learning Bootcamp. Your dedication to empowering individuals through 
+                technology is commendable. We also extend our gratitude to the UN team for their 
+                support in promoting the Sustainable Development Goals (SDGs).</p>
+              <a href="#"><img src="./images/by5zdmc.png" alt="" /></a>
+              <a href="#"><img src="logo1.png" alt="" /></a>
+              <a href="#"><img src="./images/ipscd.jpg" alt="" /></a>
+            </div>
+          </div>
+
+          <div class="col-lg-2 offset-lg-1 col-md-3 col-sm-6">
+            <div class="footer-widget">
+              <h6>Services</h6>
+              <ul class="services">
+                <li><a href="#">Machine Learning</a></li>
+                <li>
+                  <a href="#">Deep Learning</a>
+                </li>
+                <li>
+                  <a href="#">Natural Language Processing</a>
+                </li>
+                <li>
+                  <a href="#">Large Language Models</a>
+                </li>
+                <li>
+                  <a href="#">SDG's Solutions</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-lg-2 offset-lg-1 col-md-3 col-sm-6">
+            <div class="footer-widget">
+              <h6>Pages</h6>
+              <ul class="pages">
+                <li><a href="#home">Home</a></li>
+                <li>
+                  <a href="#about">About</a>
+                </li>
+                <li>
+                  <a href="#explore">Explore</a>
+                </li>
+                <li>
+                  <a href="#members">Members</a>
+                </li>
+                <li>
+                  <a href="#contact">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <div class="footer-copyright-text">
+              <p>
+                Copyright &copy; 2024 All rights reserved | This template is
+                made with <i class="fa fa-heart-o" arial-hidden="true"></i> by
+                <a href="#">Nanith & Lansar</a> Brothers
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- FOOTER SECTION ENDS -->
+  </section>
+</html>

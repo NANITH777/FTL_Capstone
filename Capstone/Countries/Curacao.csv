@@ -1,0 +1,493 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+Curacao,CUW,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,6.41490091184423
+Curacao,CUW,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,6.61025345338087
+Curacao,CUW,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,6.71516146455416
+Curacao,CUW,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,3.71472728159
+Curacao,CUW,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,2.86603581626
+Curacao,CUW,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,2.410272440869
+Curacao,CUW,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.855059164905462
+Curacao,CUW,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.659706623359634
+Curacao,CUW,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.554798612188087
+Curacao,CUW,2015,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,7.26996007674969
+Curacao,CUW,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,7.26996007674051
+Curacao,CUW,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,7.26996007674225
+Curacao,CUW,2021,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2020,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2019,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2018,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2017,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2016,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2015,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2014,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2013,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2012,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2011,Forest area (sq. km),AG.LND.FRST.K2,0.7
+Curacao,CUW,2021,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2020,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2019,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2018,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2017,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2016,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2015,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2014,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2013,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2012,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2011,Forest area (% of land area),AG.LND.FRST.ZS,0.157657657657658
+Curacao,CUW,2022,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.3348195594466
+Curacao,CUW,2021,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.4305476291067
+Curacao,CUW,2020,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.14534824657672
+Curacao,CUW,2019,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.71586643004897
+Curacao,CUW,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.16644113125828
+Curacao,CUW,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.69261131262937
+Curacao,CUW,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.39991505278562
+Curacao,CUW,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.78739209486991
+Curacao,CUW,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.26501702747432
+Curacao,CUW,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.0497229528681824
+Curacao,CUW,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.31350889001072
+Curacao,CUW,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.40614386605524
+Curacao,CUW,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7433242797852
+Curacao,CUW,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7128677368164
+Curacao,CUW,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6957931518555
+Curacao,CUW,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6959457397461
+Curacao,CUW,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7169418334961
+Curacao,CUW,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7571868896484
+Curacao,CUW,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8099060058594
+Curacao,CUW,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8680953979492
+Curacao,CUW,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9201354980469
+Curacao,CUW,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9613265991211
+Curacao,CUW,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100.0
+Curacao,CUW,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.78
+Curacao,CUW,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.48
+Curacao,CUW,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.55
+Curacao,CUW,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.86
+Curacao,CUW,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.42
+Curacao,CUW,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.31
+Curacao,CUW,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.36
+Curacao,CUW,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.12
+Curacao,CUW,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.57
+Curacao,CUW,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.5
+Curacao,CUW,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.5
+Curacao,CUW,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.51
+Curacao,CUW,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.51
+Curacao,CUW,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.58
+Curacao,CUW,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.59
+Curacao,CUW,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.6
+Curacao,CUW,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.61
+Curacao,CUW,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.61
+Curacao,CUW,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.6
+Curacao,CUW,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.63
+Curacao,CUW,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.07
+Curacao,CUW,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.08
+Curacao,CUW,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.08
+Curacao,CUW,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.08
+Curacao,CUW,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.08
+Curacao,CUW,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.08
+Curacao,CUW,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.08
+Curacao,CUW,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.1
+Curacao,CUW,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0
+Curacao,CUW,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0
+Curacao,CUW,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0
+Curacao,CUW,2016,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,275.025
+Curacao,CUW,2015,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,275.025
+Curacao,CUW,2014,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0.0
+Curacao,CUW,2013,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0.0
+Curacao,CUW,2012,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0.0
+Curacao,CUW,2016,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5115.465
+Curacao,CUW,2015,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6120.223
+Curacao,CUW,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5881.868
+Curacao,CUW,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5214.474
+Curacao,CUW,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5999.212
+Curacao,CUW,2016,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0.0
+Curacao,CUW,2015,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0.0
+Curacao,CUW,2014,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0.0
+Curacao,CUW,2013,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0.0
+Curacao,CUW,2012,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0.0
+Curacao,CUW,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.314527486398455
+Curacao,CUW,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.307323250948059
+Curacao,CUW,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.250100048934062
+Curacao,CUW,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.36561766128322
+Curacao,CUW,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.68851524513291
+Curacao,CUW,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,1.99614451956981
+Curacao,CUW,2015,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.68014514768167
+Curacao,CUW,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,1.99583849608097
+Curacao,CUW,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,2.24624456850387
+Curacao,CUW,2022,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.7457771
+Curacao,CUW,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.74577713
+Curacao,CUW,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.74578
+Curacao,CUW,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.74578
+Curacao,CUW,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.4623806987241
+Curacao,CUW,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.4623806987241
+Curacao,CUW,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,15.52
+Curacao,CUW,2022,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.0381738
+Curacao,CUW,2021,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.038173836
+Curacao,CUW,2020,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.038174
+Curacao,CUW,2019,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.038174
+Curacao,CUW,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.0341709310928601
+Curacao,CUW,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.0341709310928601
+Curacao,CUW,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.032749304
+Curacao,CUW,2022,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.266785052121899
+Curacao,CUW,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.266785052121899
+Curacao,CUW,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.266785053541896
+Curacao,CUW,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.266785053541896
+Curacao,CUW,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.258715834177835
+Curacao,CUW,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.258715834177835
+Curacao,CUW,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,0.258181114051507
+Curacao,CUW,2022,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.266174394247715
+Curacao,CUW,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.259155789090013
+Curacao,CUW,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.268419094008961
+Curacao,CUW,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.231767415923432
+Curacao,CUW,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.214779231020139
+Curacao,CUW,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.166281799037794
+Curacao,CUW,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.169566818227653
+Curacao,CUW,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.205941926250781
+Curacao,CUW,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.207327469043548
+Curacao,CUW,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.227822359865052
+Curacao,CUW,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.188964645340471
+Curacao,CUW,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.309494637952041
+Curacao,CUW,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.441001800600715
+Curacao,CUW,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.45835259199559
+Curacao,CUW,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.643381307320106
+Curacao,CUW,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.637151950359926
+Curacao,CUW,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.557540406312578
+Curacao,CUW,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.588865493053005
+Curacao,CUW,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.559760348644267
+Curacao,CUW,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.58814648704912
+Curacao,CUW,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.617357970979196
+Curacao,CUW,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.854068446202031
+Curacao,CUW,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.547435712443223
+Curacao,CUW,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.08203995227814
+Curacao,CUW,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00251996517181
+Curacao,CUW,2022,Population growth (annual %),SP.POP.GROW,-1.56965834139861
+Curacao,CUW,2021,Population growth (annual %),SP.POP.GROW,-1.6777912474095
+Curacao,CUW,2020,Population growth (annual %),SP.POP.GROW,-1.59676619476798
+Curacao,CUW,2019,Population growth (annual %),SP.POP.GROW,-1.19643951751799
+Curacao,CUW,2018,Population growth (annual %),SP.POP.GROW,-0.525178744011738
+Curacao,CUW,2017,Population growth (annual %),SP.POP.GROW,0.319536038312865
+Curacao,CUW,2016,Population growth (annual %),SP.POP.GROW,1.06031644056836
+Curacao,CUW,2015,Population growth (annual %),SP.POP.GROW,1.31959390251523
+Curacao,CUW,2014,Population growth (annual %),SP.POP.GROW,1.34764139563651
+Curacao,CUW,2013,Population growth (annual %),SP.POP.GROW,1.13367890654299
+Curacao,CUW,2012,Population growth (annual %),SP.POP.GROW,0.829929595036991
+Curacao,CUW,2011,Population growth (annual %),SP.POP.GROW,1.42089766276671
+Curacao,CUW,2010,Population growth (annual %),SP.POP.GROW,1.26551415533004
+Curacao,CUW,2009,Population growth (annual %),SP.POP.GROW,0.65115206175087
+Curacao,CUW,2008,Population growth (annual %),SP.POP.GROW,1.25822530732751
+Curacao,CUW,2007,Population growth (annual %),SP.POP.GROW,1.97486219793502
+Curacao,CUW,2006,Population growth (annual %),SP.POP.GROW,2.56811425717747
+Curacao,CUW,2005,Population growth (annual %),SP.POP.GROW,2.55007380740239
+Curacao,CUW,2004,Population growth (annual %),SP.POP.GROW,1.72502952808587
+Curacao,CUW,2003,Population growth (annual %),SP.POP.GROW,2.06210246711066
+Curacao,CUW,2002,Population growth (annual %),SP.POP.GROW,0.122361119924304
+Curacao,CUW,2001,Population growth (annual %),SP.POP.GROW,-3.6617798581649
+Curacao,CUW,2000,Population growth (annual %),SP.POP.GROW,-4.07538613162288
+Curacao,CUW,1999,Population growth (annual %),SP.POP.GROW,-3.55373781613171
+Curacao,CUW,1998,Population growth (annual %),SP.POP.GROW,-1.70475050957122
+Curacao,CUW,1997,Population growth (annual %),SP.POP.GROW,0.443290344067027
+Curacao,CUW,1996,Population growth (annual %),SP.POP.GROW,0.800841487823614
+Curacao,CUW,1995,Population growth (annual %),SP.POP.GROW,0.351314684120746
+Curacao,CUW,1994,Population growth (annual %),SP.POP.GROW,0.229122133675804
+Curacao,CUW,1993,Population growth (annual %),SP.POP.GROW,0.268553408849753
+Curacao,CUW,1992,Population growth (annual %),SP.POP.GROW,-0.340600020579915
+Curacao,CUW,1991,Population growth (annual %),SP.POP.GROW,-0.688056323323484
+Curacao,CUW,1990,Population growth (annual %),SP.POP.GROW,-1.05153583877637
+Curacao,CUW,1989,Population growth (annual %),SP.POP.GROW,-1.56456290964139
+Curacao,CUW,1988,Population growth (annual %),SP.POP.GROW,-1.46456011402408
+Curacao,CUW,1987,Population growth (annual %),SP.POP.GROW,-0.793117356944721
+Curacao,CUW,1986,Population growth (annual %),SP.POP.GROW,-0.0320919010001208
+Curacao,CUW,1985,Population growth (annual %),SP.POP.GROW,0.506154022821026
+Curacao,CUW,1984,Population growth (annual %),SP.POP.GROW,0.515344312241777
+Curacao,CUW,1983,Population growth (annual %),SP.POP.GROW,0.702386211025075
+Curacao,CUW,1982,Population growth (annual %),SP.POP.GROW,0.985513282103748
+Curacao,CUW,1981,Population growth (annual %),SP.POP.GROW,0.396400559512914
+Curacao,CUW,1980,Population growth (annual %),SP.POP.GROW,0.128425253885878
+Curacao,CUW,1979,Population growth (annual %),SP.POP.GROW,-0.33086676683633
+Curacao,CUW,1978,Population growth (annual %),SP.POP.GROW,-0.750843017063698
+Curacao,CUW,1977,Population growth (annual %),SP.POP.GROW,0.0401528490494618
+Curacao,CUW,1976,Population growth (annual %),SP.POP.GROW,0.180887604258723
+Curacao,CUW,1975,Population growth (annual %),SP.POP.GROW,0.523061566354982
+Curacao,CUW,1974,Population growth (annual %),SP.POP.GROW,0.974731946293873
+Curacao,CUW,1973,Population growth (annual %),SP.POP.GROW,-0.541712398569686
+Curacao,CUW,1972,Population growth (annual %),SP.POP.GROW,0.217554194766688
+Curacao,CUW,1971,Population growth (annual %),SP.POP.GROW,1.81432296308953
+Curacao,CUW,1970,Population growth (annual %),SP.POP.GROW,1.50218612026628
+Curacao,CUW,1969,Population growth (annual %),SP.POP.GROW,1.61415274319724
+Curacao,CUW,1968,Population growth (annual %),SP.POP.GROW,1.55010681784845
+Curacao,CUW,1967,Population growth (annual %),SP.POP.GROW,1.06106038020338
+Curacao,CUW,1966,Population growth (annual %),SP.POP.GROW,1.04138496835584
+Curacao,CUW,1965,Population growth (annual %),SP.POP.GROW,1.57819186815029
+Curacao,CUW,1964,Population growth (annual %),SP.POP.GROW,1.73332420521388
+Curacao,CUW,1963,Population growth (annual %),SP.POP.GROW,1.88686298616231
+Curacao,CUW,1962,Population growth (annual %),SP.POP.GROW,1.79859409061968
+Curacao,CUW,1961,Population growth (annual %),SP.POP.GROW,1.03527111034878
+Curacao,CUW,2022,"Population, total",SP.POP.TOTL,149996.0
+Curacao,CUW,2021,"Population, total",SP.POP.TOTL,152369.0
+Curacao,CUW,2020,"Population, total",SP.POP.TOTL,154947.0
+Curacao,CUW,2019,"Population, total",SP.POP.TOTL,157441.0
+Curacao,CUW,2018,"Population, total",SP.POP.TOTL,159336.0
+Curacao,CUW,2017,"Population, total",SP.POP.TOTL,160175.0
+Curacao,CUW,2016,"Population, total",SP.POP.TOTL,159664.0
+Curacao,CUW,2015,"Population, total",SP.POP.TOTL,157980.0
+Curacao,CUW,2014,"Population, total",SP.POP.TOTL,155909.0
+Curacao,CUW,2013,"Population, total",SP.POP.TOTL,153822.0
+Curacao,CUW,2012,"Population, total",SP.POP.TOTL,152088.0
+Curacao,CUW,2011,"Population, total",SP.POP.TOTL,150831.0
+Curacao,CUW,2010,"Population, total",SP.POP.TOTL,148703.0
+Curacao,CUW,2009,"Population, total",SP.POP.TOTL,146833.0
+Curacao,CUW,2008,"Population, total",SP.POP.TOTL,145880.0
+Curacao,CUW,2007,"Population, total",SP.POP.TOTL,144056.0
+Curacao,CUW,2006,"Population, total",SP.POP.TOTL,141239.0
+Curacao,CUW,2005,"Population, total",SP.POP.TOTL,137658.0
+Curacao,CUW,2004,"Population, total",SP.POP.TOTL,134192.0
+Curacao,CUW,2003,"Population, total",SP.POP.TOTL,131897.0
+Curacao,CUW,2002,"Population, total",SP.POP.TOTL,129205.0
+Curacao,CUW,2001,"Population, total",SP.POP.TOTL,129047.0
+Curacao,CUW,2000,"Population, total",SP.POP.TOTL,133860.0
+Curacao,CUW,1999,"Population, total",SP.POP.TOTL,139428.0
+Curacao,CUW,1998,"Population, total",SP.POP.TOTL,144472.0
+Curacao,CUW,1997,"Population, total",SP.POP.TOTL,146956.0
+Curacao,CUW,1996,"Population, total",SP.POP.TOTL,146306.0
+Curacao,CUW,1995,"Population, total",SP.POP.TOTL,145139.0
+Curacao,CUW,1994,"Population, total",SP.POP.TOTL,144630.0
+Curacao,CUW,1993,"Population, total",SP.POP.TOTL,144299.0
+Curacao,CUW,1992,"Population, total",SP.POP.TOTL,143912.0
+Curacao,CUW,1991,"Population, total",SP.POP.TOTL,144403.0
+Curacao,CUW,1990,"Population, total",SP.POP.TOTL,145400.0
+Curacao,CUW,1989,"Population, total",SP.POP.TOTL,146937.0
+Curacao,CUW,1988,"Population, total",SP.POP.TOTL,149254.0
+Curacao,CUW,1987,"Population, total",SP.POP.TOTL,151456.0
+Curacao,CUW,1986,"Population, total",SP.POP.TOTL,152662.0
+Curacao,CUW,1985,"Population, total",SP.POP.TOTL,152711.0
+Curacao,CUW,1984,"Population, total",SP.POP.TOTL,151940.0
+Curacao,CUW,1983,"Population, total",SP.POP.TOTL,151159.0
+Curacao,CUW,1982,"Population, total",SP.POP.TOTL,150101.0
+Curacao,CUW,1981,"Population, total",SP.POP.TOTL,148629.0
+Curacao,CUW,1980,"Population, total",SP.POP.TOTL,148041.0
+Curacao,CUW,1979,"Population, total",SP.POP.TOTL,147851.0
+Curacao,CUW,1978,"Population, total",SP.POP.TOTL,148341.0
+Curacao,CUW,1977,"Population, total",SP.POP.TOTL,149459.0
+Curacao,CUW,1976,"Population, total",SP.POP.TOTL,149399.0
+Curacao,CUW,1975,"Population, total",SP.POP.TOTL,149129.0
+Curacao,CUW,1974,"Population, total",SP.POP.TOTL,148351.0
+Curacao,CUW,1973,"Population, total",SP.POP.TOTL,146912.0
+Curacao,CUW,1972,"Population, total",SP.POP.TOTL,147710.0
+Curacao,CUW,1971,"Population, total",SP.POP.TOTL,147389.0
+Curacao,CUW,1970,"Population, total",SP.POP.TOTL,144739.0
+Curacao,CUW,1969,"Population, total",SP.POP.TOTL,142581.0
+Curacao,CUW,1968,"Population, total",SP.POP.TOTL,140298.0
+Curacao,CUW,1967,"Population, total",SP.POP.TOTL,138140.0
+Curacao,CUW,1966,"Population, total",SP.POP.TOTL,136682.0
+Curacao,CUW,1965,"Population, total",SP.POP.TOTL,135266.0
+Curacao,CUW,1964,"Population, total",SP.POP.TOTL,133148.0
+Curacao,CUW,1963,"Population, total",SP.POP.TOTL,130860.0
+Curacao,CUW,1962,"Population, total",SP.POP.TOTL,128414.0
+Curacao,CUW,1961,"Population, total",SP.POP.TOTL,126125.0
+Curacao,CUW,1960,"Population, total",SP.POP.TOTL,124826.0
+Curacao,CUW,2022,Urban population growth (annual %),SP.URB.GROW,-1.58398556951188
+Curacao,CUW,2021,Urban population growth (annual %),SP.URB.GROW,-1.70504559966404
+Curacao,CUW,2020,Urban population growth (annual %),SP.URB.GROW,-1.6372600489331
+Curacao,CUW,2019,Urban population growth (annual %),SP.URB.GROW,-1.24896688314182
+Curacao,CUW,2018,Urban population growth (annual %),SP.URB.GROW,-0.590340790898889
+Curacao,CUW,2017,Urban population growth (annual %),SP.URB.GROW,0.242453239827214
+Curacao,CUW,2016,Urban population growth (annual %),SP.URB.GROW,0.970775319854354
+Curacao,CUW,2015,Urban population growth (annual %),SP.URB.GROW,1.21737163135625
+Curacao,CUW,2014,Urban population growth (annual %),SP.URB.GROW,1.23527841727163
+Curacao,CUW,2013,Urban population growth (annual %),SP.URB.GROW,1.01062186510087
+Curacao,CUW,2012,Urban population growth (annual %),SP.URB.GROW,0.694728326126186
+Curacao,CUW,2011,Urban population growth (annual %),SP.URB.GROW,1.27686610304306
+Curacao,CUW,2010,Urban population growth (annual %),SP.URB.GROW,1.12152395404942
+Curacao,CUW,2009,Urban population growth (annual %),SP.URB.GROW,0.510377368177239
+Curacao,CUW,2008,Urban population growth (annual %),SP.URB.GROW,1.1185516731597
+Curacao,CUW,2007,Urban population growth (annual %),SP.URB.GROW,1.83741978705634
+Curacao,CUW,2006,Urban population growth (annual %),SP.URB.GROW,2.43271628359874
+Curacao,CUW,2005,Urban population growth (annual %),SP.URB.GROW,2.41607665949769
+Curacao,CUW,2004,Urban population growth (annual %),SP.URB.GROW,1.59253019739367
+Curacao,CUW,2003,Urban population growth (annual %),SP.URB.GROW,1.93116428625467
+Curacao,CUW,2002,Urban population growth (annual %),SP.URB.GROW,-0.0059603128330422
+Curacao,CUW,2001,Urban population growth (annual %),SP.URB.GROW,-3.3770703956836
+Curacao,CUW,2000,Urban population growth (annual %),SP.URB.GROW,-3.46254083518543
+Curacao,CUW,1999,Urban population growth (annual %),SP.URB.GROW,-2.90581899404824
+Curacao,CUW,1998,Urban population growth (annual %),SP.URB.GROW,-1.01820961676246
+Curacao,CUW,1997,Urban population growth (annual %),SP.URB.GROW,1.16971191441015
+Curacao,CUW,1996,Urban population growth (annual %),SP.URB.GROW,1.57099254433809
+Curacao,CUW,1995,Urban population growth (annual %),SP.URB.GROW,1.16583218242206
+Curacao,CUW,1994,Urban population growth (annual %),SP.URB.GROW,1.08952609127562
+Curacao,CUW,1993,Urban population growth (annual %),SP.URB.GROW,1.17713094812925
+Curacao,CUW,1992,Urban population growth (annual %),SP.URB.GROW,0.242641490213702
+Curacao,CUW,1991,Urban population growth (annual %),SP.URB.GROW,-0.371051900973224
+Curacao,CUW,1990,Urban population growth (annual %),SP.URB.GROW,-0.728323550974688
+Curacao,CUW,1989,Urban population growth (annual %),SP.URB.GROW,-1.23725475282015
+Curacao,CUW,1988,Urban population growth (annual %),SP.URB.GROW,-1.13004500781715
+Curacao,CUW,1987,Urban population growth (annual %),SP.URB.GROW,-0.452542785659714
+Curacao,CUW,1986,Urban population growth (annual %),SP.URB.GROW,0.314048417397196
+Curacao,CUW,1985,Urban population growth (annual %),SP.URB.GROW,0.857649026919116
+Curacao,CUW,1984,Urban population growth (annual %),SP.URB.GROW,0.875469113312806
+Curacao,CUW,1983,Urban population growth (annual %),SP.URB.GROW,1.06660384885887
+Curacao,CUW,1982,Urban population growth (annual %),SP.URB.GROW,1.35642218083023
+Curacao,CUW,1981,Urban population growth (annual %),SP.URB.GROW,0.773526346682552
+Curacao,CUW,1980,Urban population growth (annual %),SP.URB.GROW,0.511832030971022
+Curacao,CUW,1979,Urban population growth (annual %),SP.URB.GROW,0.0606324900736516
+Curacao,CUW,1978,Urban population growth (annual %),SP.URB.GROW,-0.354138268261042
+Curacao,CUW,1977,Urban population growth (annual %),SP.URB.GROW,0.443908611842757
+Curacao,CUW,1976,Urban population growth (annual %),SP.URB.GROW,0.592171741630998
+Curacao,CUW,1975,Urban population growth (annual %),SP.URB.GROW,0.940473467212089
+Curacao,CUW,1974,Urban population growth (annual %),SP.URB.GROW,1.40052714161408
+Curacao,CUW,1973,Urban population growth (annual %),SP.URB.GROW,-0.111261372974342
+Curacao,CUW,1972,Urban population growth (annual %),SP.URB.GROW,0.657377672004204
+Curacao,CUW,1971,Urban population growth (annual %),SP.URB.GROW,2.26057360881195
+Curacao,CUW,1970,Urban population growth (annual %),SP.URB.GROW,1.95567638245466
+Curacao,CUW,1969,Urban population growth (annual %),SP.URB.GROW,2.07534501008331
+Curacao,CUW,1968,Urban population growth (annual %),SP.URB.GROW,2.01916667341125
+Curacao,CUW,1967,Urban population growth (annual %),SP.URB.GROW,1.53683821274344
+Curacao,CUW,1966,Urban population growth (annual %),SP.URB.GROW,1.52512470031962
+Curacao,CUW,1965,Urban population growth (annual %),SP.URB.GROW,2.07037045961456
+Curacao,CUW,1964,Urban population growth (annual %),SP.URB.GROW,2.23291586848614
+Curacao,CUW,1963,Urban population growth (annual %),SP.URB.GROW,2.39526306282728
+Curacao,CUW,1962,Urban population growth (annual %),SP.URB.GROW,2.3145944639585
+Curacao,CUW,1961,Urban population growth (annual %),SP.URB.GROW,1.55764400488288
+Curacao,CUW,2022,Urban population,SP.URB.TOTL,133534.0
+Curacao,CUW,2021,Urban population,SP.URB.TOTL,135666.0
+Curacao,CUW,2020,Urban population,SP.URB.TOTL,137999.0
+Curacao,CUW,2019,Urban population,SP.URB.TOTL,140277.0
+Curacao,CUW,2018,Urban population,SP.URB.TOTL,142040.0
+Curacao,CUW,2017,Urban population,SP.URB.TOTL,142881.0
+Curacao,CUW,2016,Urban population,SP.URB.TOTL,142535.0
+Curacao,CUW,2015,Urban population,SP.URB.TOTL,141158.0
+Curacao,CUW,2014,Urban population,SP.URB.TOTL,139450.0
+Curacao,CUW,2013,Urban population,SP.URB.TOTL,137738.0
+Curacao,CUW,2012,Urban population,SP.URB.TOTL,136353.0
+Curacao,CUW,2011,Urban population,SP.URB.TOTL,135409.0
+Curacao,CUW,2010,Urban population,SP.URB.TOTL,133691.0
+Curacao,CUW,2009,Urban population,SP.URB.TOTL,132200.0
+Curacao,CUW,2008,Urban population,SP.URB.TOTL,131527.0
+Curacao,CUW,2007,Urban population,SP.URB.TOTL,130064.0
+Curacao,CUW,2006,Urban population,SP.URB.TOTL,127696.0
+Curacao,CUW,2005,Urban population,SP.URB.TOTL,124627.0
+Curacao,CUW,2004,Urban population,SP.URB.TOTL,121652.0
+Curacao,CUW,2003,Urban population,SP.URB.TOTL,119730.0
+Curacao,CUW,2002,Urban population,SP.URB.TOTL,117440.0
+Curacao,CUW,2001,Urban population,SP.URB.TOTL,117447.0
+Curacao,CUW,2000,Urban population,SP.URB.TOTL,121481.0
+Curacao,CUW,1999,Urban population,SP.URB.TOTL,125761.0
+Curacao,CUW,1998,Urban population,SP.URB.TOTL,129469.0
+Curacao,CUW,1997,Urban population,SP.URB.TOTL,130794.0
+Curacao,CUW,1996,Urban population,SP.URB.TOTL,129273.0
+Curacao,CUW,1995,Urban population,SP.URB.TOTL,127258.0
+Curacao,CUW,1994,Urban population,SP.URB.TOTL,125783.0
+Curacao,CUW,1993,Urban population,SP.URB.TOTL,124420.0
+Curacao,CUW,1992,Urban population,SP.URB.TOTL,122964.0
+Curacao,CUW,1991,Urban population,SP.URB.TOTL,122666.0
+Curacao,CUW,1990,Urban population,SP.URB.TOTL,123122.0
+Curacao,CUW,1989,Urban population,SP.URB.TOTL,124022.0
+Curacao,CUW,1988,Urban population,SP.URB.TOTL,125566.0
+Curacao,CUW,1987,Urban population,SP.URB.TOTL,126993.0
+Curacao,CUW,1986,Urban population,SP.URB.TOTL,127569.0
+Curacao,CUW,1985,Urban population,SP.URB.TOTL,127169.0
+Curacao,CUW,1984,Urban population,SP.URB.TOTL,126083.0
+Curacao,CUW,1983,Urban population,SP.URB.TOTL,124984.0
+Curacao,CUW,1982,Urban population,SP.URB.TOTL,123658.0
+Curacao,CUW,1981,Urban population,SP.URB.TOTL,121992.0
+Curacao,CUW,1980,Urban population,SP.URB.TOTL,121052.0
+Curacao,CUW,1979,Urban population,SP.URB.TOTL,120434.0
+Curacao,CUW,1978,Urban population,SP.URB.TOTL,120361.0
+Curacao,CUW,1977,Urban population,SP.URB.TOTL,120788.0
+Curacao,CUW,1976,Urban population,SP.URB.TOTL,120253.0
+Curacao,CUW,1975,Urban population,SP.URB.TOTL,119543.0
+Curacao,CUW,1974,Urban population,SP.URB.TOTL,118424.0
+Curacao,CUW,1973,Urban population,SP.URB.TOTL,116777.0
+Curacao,CUW,1972,Urban population,SP.URB.TOTL,116907.0
+Curacao,CUW,1971,Urban population,SP.URB.TOTL,116141.0
+Curacao,CUW,1970,Urban population,SP.URB.TOTL,113545.0
+Curacao,CUW,1969,Urban population,SP.URB.TOTL,111346.0
+Curacao,CUW,1968,Urban population,SP.URB.TOTL,109059.0
+Curacao,CUW,1967,Urban population,SP.URB.TOTL,106879.0
+Curacao,CUW,1966,Urban population,SP.URB.TOTL,105249.0
+Curacao,CUW,1965,Urban population,SP.URB.TOTL,103656.0
+Curacao,CUW,1964,Urban population,SP.URB.TOTL,101532.0
+Curacao,CUW,1963,Urban population,SP.URB.TOTL,99290.0
+Curacao,CUW,1962,Urban population,SP.URB.TOTL,96940.0
+Curacao,CUW,1961,Urban population,SP.URB.TOTL,94722.0
+Curacao,CUW,1960,Urban population,SP.URB.TOTL,93258.0
+Curacao,CUW,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.025
+Curacao,CUW,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.038
+Curacao,CUW,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.062
+Curacao,CUW,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.098
+Curacao,CUW,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.145
+Curacao,CUW,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.203
+Curacao,CUW,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.272
+Curacao,CUW,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.352
+Curacao,CUW,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.443
+Curacao,CUW,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.544
+Curacao,CUW,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.654
+Curacao,CUW,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.775
+Curacao,CUW,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.905
+Curacao,CUW,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.034
+Curacao,CUW,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.161
+Curacao,CUW,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.287
+Curacao,CUW,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.411
+Curacao,CUW,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.534
+Curacao,CUW,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.655
+Curacao,CUW,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.775
+Curacao,CUW,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.894
+Curacao,CUW,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,91.011
+Curacao,CUW,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.752
+Curacao,CUW,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,90.198
+Curacao,CUW,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.615
+Curacao,CUW,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,89.002
+Curacao,CUW,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,88.358
+Curacao,CUW,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,87.68
+Curacao,CUW,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.969
+Curacao,CUW,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,86.224
+Curacao,CUW,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,85.444
+Curacao,CUW,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.947
+Curacao,CUW,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.678
+Curacao,CUW,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.405
+Curacao,CUW,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,84.129
+Curacao,CUW,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,83.848
+Curacao,CUW,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,83.563
+Curacao,CUW,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,83.274
+Curacao,CUW,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.982
+Curacao,CUW,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.684
+Curacao,CUW,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.383
+Curacao,CUW,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,82.078
+Curacao,CUW,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.769
+Curacao,CUW,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.456
+Curacao,CUW,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,81.138
+Curacao,CUW,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.817
+Curacao,CUW,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.491
+Curacao,CUW,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,80.161
+Curacao,CUW,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.827
+Curacao,CUW,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.488
+Curacao,CUW,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,79.146
+Curacao,CUW,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.799
+Curacao,CUW,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.448
+Curacao,CUW,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.093
+Curacao,CUW,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.734
+Curacao,CUW,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.37
+Curacao,CUW,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.003
+Curacao,CUW,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.631
+Curacao,CUW,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.255
+Curacao,CUW,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.875
+Curacao,CUW,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.49
+Curacao,CUW,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.102
+Curacao,CUW,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.71

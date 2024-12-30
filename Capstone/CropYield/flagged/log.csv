@@ -1,0 +1,6 @@
+Year,Average Rainfall (mm/year),Pesticides (tonnes),Average Temperature (°C),Country,Item,Predicted Yield,flag,username,timestamp
+2012,34,345,234,0,5,,,,2024-09-05 12:30:20.381338
+2023,1500,1000,20,Bangladesh,Wheat,,,,2024-09-05 16:54:13.007981
+2013,1485,982.32,17.41,Albania,Maize,Predicted Yield: 62450.57,,,2024-09-05 17:03:52.791343
+2022,234,56,34,Algeria,Soybeans,Predicted Yield: 14105.42,,,2024-09-05 17:05:46.964819
+2013,123,22,12,Turkey,Soybeans,Predicted Yield: 15194.27,,,2024-09-05 17:08:15.281621
